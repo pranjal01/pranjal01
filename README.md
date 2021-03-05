@@ -1,3 +1,4 @@
+
 <p>
   
   <h1 align='center'>Hey there, I'm Pranjal Laad</h1>
@@ -88,7 +89,7 @@
 </p>
 -->
 
-<!--
+<!-- 
 <details>
 <summary>:zap:        </summary>
 </details>
