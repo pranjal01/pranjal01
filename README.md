@@ -4,16 +4,16 @@
 
 </p>
 
-<img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
+<img align="right" src="https://github.com/anubhavv1998/pranjal01/blob/main/Image.gif" height="350" width="400">
 
-[![](https://img.shields.io/badge/LinkedIn-Pranjal-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
-[![](https://img.shields.io/badge/Twitter-Pranjal-skyblue)](https://twitter.com/Anubhav02017/)
-[![](https://img.shields.io/badge/HackerRank-Pranjal-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
-[![](https://img.shields.io/badge/Portfolio-Pranjal-orange)](https://anubhavv1998.github.io/anubhav/)
-[![](https://img.shields.io/badge/GeeksForGeeks-Pranjal-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
-[![](https://img.shields.io/badge/YouTube-Pranjal-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
+[![](https://img.shields.io/badge/LinkedIn-Pranjal-blue)](https://www.linkedin.com/in/pranjal-laad-61b138131/)
+[![](https://img.shields.io/badge/Twitter-Pranjal-skyblue)]( https://twitter.com/pranjal_laad?s=08/)
+[![](https://img.shields.io/badge/HackerRank-Pranjal-brightgreen)](https://www.hackerrank.com/laadpranjal/)
+[![](https://img.shields.io/badge/Instagram-Pranjal-orange)](https://instagram.com/pranjal_laad?igshid=126bev3b3cgxx)
+[![](https://img.shields.io/badge/GeeksForGeeks-Pranjal-brightgreen)](https://auth.geeksforgeeks.org/user/laadpranjal/)
+[![](https://img.shields.io/badge/YouTube-Pranjal-darkred)](https://youtube.com/user/pranjal4501/)
 [![](https://img.shields.io/badge/Gmail-laadpranjal@gmail.com-red)](mailto:laadpranjal@gmail.com)
-[![](https://img.shields.io/badge/Discord-Pranjal-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
+[![](https://img.shields.io/badge/facebook-Pranjal-blue)](https://www.facebook.com/pranjal.laad.75/)
 
 <br>
 
@@ -48,8 +48,6 @@
 <br/>
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-pranjal01&label=PROFILE+VIEWS)<hr>
-
 <h2 style="block">Github Stats</h2>
 <p width="100%">
   <a href="https://github.com/pranjal01">
@@ -72,20 +70,20 @@
       <br><br>
     
 <!--  
-   <a href="https://github.com/anubhavv1998/EmployeeLoanMgt">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+   <a href="https://github.com/pranjal01/EmployeeLoanMgt">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal01&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
     <br><br>
     <a href="https://github.com/anubhavv1998/EazyPeazy">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EazyPeazy&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal01&repo=EazyPeazy&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
     <br><br>
     <a href="https://github.com/anubhavv1998/Book-Navigator-GCExtention">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=Book-Navigator-GCExtention&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal01&repo=Book-Navigator-GCExtention&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
     <br><br>
     <a href="https://github.com/anubhavv1998/E-Book_Services">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal01&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
 </p>
 -->
@@ -100,7 +98,7 @@ code snippits here
 <hr>
 
 ⚡ From  [Pranjal Laad](https://github.com/pranjal01)<br><br>
-
+![](https://komarev.com/ghpvc/?username=your-github-pranjal01&label=PROFILE+VIEWS)<hr>
 
 
 <!-- Aage aur projects bnane hai
