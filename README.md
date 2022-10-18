@@ -20,11 +20,11 @@
 
 <h2 align="top">About Me</h2>
 
-### I code in Java
+### I am a DevOps engineer
 
-### I Develop Android Apps 
+### I Use Kubernetes And Docker 
 
-### Backend is my speciality
+### And Also Jenkins
 
 ### Knows something of everything 
 
